@@ -3,6 +3,7 @@
 
 # Azure Speech Services SDK
 azure-cognitiveservices-speech>=1.23.0
+azure-storage-blob>=12.20.0
 
 # Video processing
 moviepy==1.0.3
